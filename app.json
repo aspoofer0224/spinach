@@ -5,6 +5,11 @@
       "bundler": "metro"
     },
     "name": "fyp_app",
-    "slug": "fyp_app"
+    "slug": "fyp_app",
+
+    "splash": {
+      "image": "./assets/images/spinach.png",
+      "backgroundColor" : "#9ee2d7"
+    }
   }
 }
